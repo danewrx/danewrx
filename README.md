@@ -1,13 +1,13 @@
 <div align="center">
-<img src="https://files.catbox.moe/6jc97l.gif" width="25%" align="right" />
+<img src="https://raw.githubusercontent.com/danewrx/danewrx/refs/heads/main/assets/banner.gif" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&duration=3000&color=F7C7C7E1&center=true&multiline=true&repeat=false&width=435&height=70&lines=hi%2C+i'm+dane!+%28%E2%8C%92%CF%89%E2%8C%92%29;i'm+a+software%2Fdevops+engineer!+%E2%98%86" width="70%" />
 <br><br>
 
 <samp>
-<img src="https://cdn3.emoji.gg/emojis/42534-red.gif" width="18" height="18" />&nbsp;&nbsp;devops engineer @ intl medtech company&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<img src="https://cdn3.emoji.gg/emojis/84314-cyan.gif" width="18" height="18" />&nbsp;&nbsp;c#/.net &middot; ts/js &middot; terraform &middot; k8s &middot; azure &middot; gcp &middot; ci/cd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<img src="https://cdn3.emoji.gg/emojis/67896-green.gif" width="18" height="18" />&nbsp;&nbsp;lancashire, uk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<img src="https://cdn3.emoji.gg/emojis/92955-purple.gif" width="18" height="18" />&nbsp;&nbsp;self hoster, designer, bedroom dj &amp; lover of the early y2k internet<br>
+<img src="https://raw.githubusercontent.com/danewrx/danewrx/refs/heads/main/assets/bullets/red.gif" width="18" height="18" />&nbsp;&nbsp;devops engineer @ intl medtech company&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<img src="https://raw.githubusercontent.com/danewrx/danewrx/refs/heads/main/assets/bullets/cyan.gif" width="18" height="18" />&nbsp;&nbsp;c#/.net &middot; ts/js &middot; terraform &middot; k8s &middot; azure &middot; gcp &middot; ci/cd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<img src="https://raw.githubusercontent.com/danewrx/danewrx/refs/heads/main/assets/bullets/green.gif" width="18" height="18" />&nbsp;&nbsp;lancashire, uk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<img src="https://raw.githubusercontent.com/danewrx/danewrx/refs/heads/main/assets/bullets/purple.gif" width="18" height="18" />&nbsp;&nbsp;self hoster, designer, bedroom dj &amp; lover of the early y2k internet<br>
 </samp>
 
 <br>
